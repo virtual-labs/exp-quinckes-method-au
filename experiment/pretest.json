@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The degree of magnetization of a material in response to an applied magnetic field is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Magnetic permeability",
+        "b": "Magnetic susceptibility",
+        "c": "Magnetic induction",
+        "d": "Magnetic dipole moment"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which among the following is a experimental method to determine the susceptibility of liquids?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cornu's method",
+        "b": "Kundts tube method",
+        "c": "Quincke's method",
+        "d": "Oscillation disc method"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The relative permeability of air is one. Its susceptibility is given by",
+      "answers": {
+        "a": "Zero",
+        "b": "One",
+        "c": "Two",
+        "d": "Infinty"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
