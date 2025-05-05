@@ -20,7 +20,7 @@ We can derive an expression for the susceptibility of the liquid as given below,
 
 $$X_{2}-X_{1}=\frac{2gh(\rho-\sigma)}{\mu_{0}H_{m}^{2}}.............(2)$$
 
-where $X_{2}$, $X_{1}$ are the susceptibilities of the solution and air; $\rho$, $\sigma$ are the densities of  liquid and air ; $g$ the acceleration due to gravity; $h$ the rise in the surface of the liquid; and Hm is the final field applied.
+where $X_{2}$, $X_{1}$ are the susceptibilities of the solution and air; $\rho$, $\sigma$ are the densities of  liquid and air ; $g$ is the acceleration due to gravity; $h$ is the rise in the surface of the liquid; and $H_{m}$ is the final field applied.
 
 Taking the susceptibility of air approximately equal to zero, (2) becomes,
 
