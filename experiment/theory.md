@@ -8,7 +8,7 @@ Where $M$ s the magnetization, $H$ is the applied field and $\mu_{r}$ is the rel
 The Quincke's method is used for the determination of magnetic susceptibilities of many liquids, aqueous solutions and liquefied gases. Here we are determining the susceptibility of MnSO4 solution (which is paramagnetic) at different concentrations. The experimental set-up used for Quincke's method is shown below,
 
 <div style="float: right; margin-left: 20px;">
-  <img src="figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+  <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: Arrangement for Quincke's method</p>
 </div>
 
