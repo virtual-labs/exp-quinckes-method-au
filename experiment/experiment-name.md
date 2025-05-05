@@ -1,1 +1,1 @@
-## Experiment name
+## Quincke's Method
