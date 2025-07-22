@@ -5,7 +5,7 @@
 Select set up 
 **Drop down menu** :This is used to select the part of the experiment to perform.
 1. Magnetic field Vs Current
-2. Quinke's Setup
+2. Quincke's Setup
 
 **Slider**
 - **Current** : Used to vary the current through the Solenoids.(From 0.5 A to 5 A).
