@@ -3,7 +3,7 @@ In electromagnetism, the magnetic susceptibility $X_{m}$ is a proportionality co
 
 $$X_{m}=\frac{M}{H}=\mu_{r}-1..........(1)$$
 
-Where $M$ s the magnetization, $H$ is the applied field and $\mu_{r}$ is the relative permeability of the material.
+Where $M$ is the magnetization, $H$ is the applied field and $\mu_{r}$ is the relative permeability of the material.
 
 The Quincke's method is used for the determination of magnetic susceptibilities of many liquids, aqueous solutions and liquefied gases. Here we are determining the susceptibility of MnSO4 solution (which is paramagnetic) at different concentrations. The experimental set-up used for Quincke's method is shown below,
 
